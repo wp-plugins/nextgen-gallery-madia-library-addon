@@ -12,9 +12,9 @@ This plugin adds a feature to NextGEN Gallery Plguin to add an image from the WP
 
 == Description ==
 
-If you use NextGEN Gallery, then you know that, when you create a gallery, you much upload the images for that gallery, which is then stored in separate folder from your WordPress Media Library. For large websites with hundreds and hundreds of images, like some of my high profile clients, this can add strain on the server, causing long page load times, in turn effecting Google rankings.
+If you use NextGEN Gallery, then you know that, when you create a gallery, you must upload the images for that gallery, which is then stored in a separate folder from your WordPress Media Library. For large websites with hundreds and hundreds of images, like some of my high profile clients, this can add strain on the server, causing long page load times, in turn effecting Google rankings.
 
-Now, with our NextGEN Gallery Madia Library Addon, you will have the option of adding images that are already stored in your Media Library. Just like adding an image to a page or post, adding an image to your NextGEN Gallery can be a matter of clicking a button and finding an image you have already uploaded.
+Now, with our NextGEN Gallery Media Library Addon, you will have the option of adding images that are already stored in your Media Library. Just like adding an image to a page or post, adding an image to your NextGEN Gallery can be a matter of clicking a button and finding an image you have already uploaded.
 
 == Installation ==
 
@@ -27,7 +27,7 @@ directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress (under plugin name:
 **"NextGEN Gallery Media Library Addon"**).
 
-4. Find more Installation options at http://jaggededgemedia.com/plugins/post-list-featured-image/
+4. Find more Installation options at http://jaggededgemedia.com/plugins/nextgen-gallery-media-library-addon/
 
 == Frequently Asked Questions ==
 
