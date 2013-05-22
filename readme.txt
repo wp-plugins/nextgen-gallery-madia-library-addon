@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: JAkzam, pcgrejaldo
 Donate link: http://jaggededgemedia.com/donate/
-Tags: nextgen gallery, gallery images, media library, adding images
+Tags: nextgen gallery, gallery images, media library, adding images, extensions
 Requires at least: 3.5.1
 Tested up to: 3.5.1
 Stable tag: trunk
